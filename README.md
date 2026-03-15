@@ -8,7 +8,7 @@ Personal expense tracker to learn how to save money.
 - Database: PostgreSQL (Supabase)
 - OCR: Google Cloud Vision
 - Parsing: OpenAI GPT-4o mini
-- Hosting: Vercel (frontend) + Railway (backend)
+- Hosting: Vercel (frontend) + DigitalOcean App Platform (backend)
 
 ## Project Structure
 - /frontend — React PWA

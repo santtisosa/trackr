@@ -18,3 +18,7 @@ PostgreSQL via Supabase for database.
 - React Native: too much overhead for MVP validation
 - MySQL: no integrated ecosystem, weaker analytics
 - Express/Node: Go is better for concurrent API workloads
+
+## Update — 2026-03-15
+Backend hosting changed from Railway to DigitalOcean App Platform.
+Reason: $200 credit via GitHub Student Pack covers 16 months at no cost.
