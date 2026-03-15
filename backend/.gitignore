@@ -1,0 +1,27 @@
+# Environment
+.env
+
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build output
+/tmp
+
+# Test coverage
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE
+.vscode/
+.idea/
+
+# sqlc generated files (optional - remove if you want to commit them)
+# internal/db/
