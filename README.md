@@ -16,7 +16,19 @@ Personal expense tracker to learn how to save money.
 - /docs/adr — Architecture Decision Records
 
 ## Local Setup
-WIP
+
+### Prerequisites
+- Node.js v22+
+- Go 1.21+
+- Git
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+Runs on http://localhost:5173
 
 ## Environments
 - Production: https://usetrackr.app
